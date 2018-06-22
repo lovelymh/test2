@@ -15,5 +15,9 @@
     "predeploy": "npm run build",
     "deploy" : "npm run build&&gh-pages -d build"
   },
-  "homepage": "http://lovelymh.github.io/movie_app"
+  "homepage": "http://lovelymh.github.io/test2",
+  "devDependencies": {
+  "gh-pages": "^1.0.0",
+  "react-scripts": "1.0.5"
+ }
 }
